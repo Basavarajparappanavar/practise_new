@@ -12,12 +12,12 @@ public class COLLECTIONFRAMEWORK {
 		a1.add(10.25);
 		a1.add(10);
 		System.out.println(a1);//to print elements horizontally//
-		System.out.println(a1.size()+" "+"total size of arraylist");//used to count the number of values inside the arraylist//
-		System.out.println(a1.get(2));//to get the value particular value
-		System.out.println("TO GET ALL VALUES ");//getting the values one by one in vertical order
-		for(int i=0;i<a1.size();i++) {
-			System.out.println(a1.get(i));
-		}
+//		System.out.println(a1.size()+" "+"total size of arraylist");//used to count the number of values inside the arraylist//
+//		System.out.println(a1.get(2));//to get the value particular value
+//		System.out.println("TO GET ALL VALUES ");//getting the values one by one in vertical order
+//		for(int i=0;i<a1.size();i++) {
+//			System.out.println(a1.get(i));
+//		}
 		
 		}
 				
